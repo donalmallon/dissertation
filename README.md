@@ -5,7 +5,7 @@
 The aim of this project is to compare the lanuage used in petitions 
 submitted through  with the UK petitions website with laguage used in 
 parliamentary debates through topic modeling. This will give an insight 
-into which topics  
+into whether topics mentioned in UK petitions are subsequently mentioned in parliament.
 
 All results are repreoducable, to run them on a different system simply 
 run each Jupyter Notebook in JupyterLab/JupyterNotebook from 000-300.
